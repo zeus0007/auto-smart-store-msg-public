@@ -20,4 +20,4 @@ pip install selenium ChromeDriverManager BeautifulSoup time schedule json reques
 </br>
 </br></br></br></br>
 
-Last updated on 2021.02.05
+Last updated on Feb 5, 2021
